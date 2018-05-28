@@ -1,7 +1,3 @@
----
-description: Introduction
----
-
 # NUE User Manual
 
 Thank you for choosing Aveco. This guide is meant to show you standard applications in NUE as well as typical user tasks and operations utilized in everyday use of our product. Keep in mind that this guide does not introduce or describe the installation of NUE or configuration procedures. You may notice that the material in this user guide can differ from your actual experience. That’s ok! This document describes standard NUE features which, depending on your specific project and/or user rights, can differ substantially. You can find more detailed information related to your configuration and user rights in your project’s specification document.
