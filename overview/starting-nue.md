@@ -2,10 +2,11 @@
 
 ## Launching the NUE Application:
 
-  
+
+  
 Locate the NUE Launcher shortcut on your machine and launch the application. 
 
-![](http://fileserver.imagebucket.net/i/00000/u9s8xns8wsch_t.jpg)
+![](./images/icons/NUE_Icon.PNG)
 
 For closing NUE, please refer to Closing NUE
 
