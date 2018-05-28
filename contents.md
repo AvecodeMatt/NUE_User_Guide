@@ -14,5 +14,13 @@
 
 {% page-ref page="other-tools/" %}
 
+{% page-ref page="7-doa-direct-operation-applications/" %}
+
+{% page-ref page="8-administration/" %}
+
+{% page-ref page="9-panels/" %}
+
+{% page-ref page="appendix/" %}
+
 
 
