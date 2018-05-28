@@ -16,4 +16,6 @@
       * [Operations](untitled/nue-desktop/favorites/operations.md)
     * [Virtual Desktop](untitled/nue-desktop/virtual-desktop-1.md)
   * [Closing NUE](untitled/closing-nue.md)
+* Main Applications
+  * [Utilizing the Main Applications Section](main-applications/utilizing-the-main-applications-section.md)
 
