@@ -2,5 +2,6 @@
 
 {% page-ref page="getting-started/" %}
 
-{% page-ref page="contents.md" %}
+{% page-ref page="user-interface-nue-desktop.md" %}
 
+{% page-ref page="main-applications" %}
