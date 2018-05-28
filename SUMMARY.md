@@ -1,6 +1,7 @@
 # Table of contents
 
 * [NUE User Manual](README.md)
+* [Contents](contents.md)
 * [Getting Started](getting-started/README.md)
   * [Starting NUE](getting-started/starting-nue.md)
   * [Updating NUE](getting-started/updating-nue.md)
