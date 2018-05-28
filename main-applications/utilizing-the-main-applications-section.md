@@ -1,10 +1,10 @@
-# Utilizing the Main Applications Section
+# Utilizing the Applications Sections
 
 ## Layout
 
-The [Main Applications](./) section has been written to make finding the information you need quick and easy. 
+The [Main Applications](./), [MCR Applications](../mcr-master-control-room-applications/), and  Tools sections have been written in a standard way to make finding the information you need quick and easy. 
 
-### Each application listed in this chapter will be subdivided using the following scheme:
+### Each application listed in these chapters is subdivided using the following scheme:
 
 * **Application Name**
   * Ribbon

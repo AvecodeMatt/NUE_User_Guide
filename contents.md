@@ -8,3 +8,7 @@
 
 {% page-ref page="main-applications/" %}
 
+{% page-ref page="mcr-master-control-room-applications/" %}
+
+
+
