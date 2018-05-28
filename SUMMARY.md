@@ -22,4 +22,9 @@
     * [Application Area \(Playlist\)](main-applications/playlist/application-area-playlist.md)
     * [Side Panels \(Playlist\)](main-applications/playlist/side-panels-playlist.md)
     * [Examples \(Playlist\)](main-applications/playlist/examples-playlist.md)
+  * [Content Browser](main-applications/content-browser/README.md)
+    * [Ribbon \(Content Browser\)](main-applications/content-browser/ribbon-content-browser.md)
+    * [Applications Area \(Content Browser\)](main-applications/content-browser/applications-area-content-browser.md)
+    * [Side Panels \(Content Browser\)](main-applications/content-browser/side-panels-content-browser.md)
+    * [Examples \(Content Browser\)](main-applications/content-browser/examples-content-browser.md)
 
