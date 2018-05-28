@@ -15,7 +15,7 @@
   * [Application Interface](user-interface-nue-desktop/application-interface.md)
   * [Favorites](user-interface-nue-desktop/favorites/README.md)
     * [Operations](user-interface-nue-desktop/favorites/operations.md)
-  * [Virtual Desktop](user-interface-nue-desktop/virtual-desktop.md)
+  * [Virtual Desktops](user-interface-nue-desktop/virtual-desktop.md)
 * [3\) Main Applications](main-applications/README.md)
   * [Utilizing the Applications Sections](main-applications/utilizing-the-main-applications-section.md)
   * [Playlist](main-applications/playlist/README.md)
