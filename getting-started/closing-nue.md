@@ -1,6 +1,8 @@
-# Closing NUE
+---
+description: 'NUE can be closed using the following two methods:'
+---
 
-NUE can be closed using the following two methods:
+# Closing NUE
 
 ## Tray Method
 
