@@ -1,0 +1,17 @@
+# Starting NUE
+
+## Launching the NUE Application:
+
+  
+Locate the NUE Launcher shortcut on your machine and launch the application. 
+
+![](http://fileserver.imagebucket.net/i/00000/u9s8xns8wsch_t.jpg)
+
+For closing NUE, please refer to Closing NUE
+
+{% hint style="info" %}
+It is recommended to set your monitor resolution to 1920 x 1080 or higher for the best experience.
+{% endhint %}
+
+
+
