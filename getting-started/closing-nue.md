@@ -2,7 +2,7 @@
 
 ## Tray Method
 
-1. Right-click on any empty space in the system tray\*
+1. Right-click on any empty space in the system tray.\*
 2. Select **Exit**
 
 ![](../.gitbook/assets/exit1.PNG)
