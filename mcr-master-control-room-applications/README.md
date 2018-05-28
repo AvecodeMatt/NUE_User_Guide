@@ -1,9 +1,5 @@
 # MCR \(Master Control Room\) Applications
 
-{% hint style="info" %}
-For more information regarding the scheme of this section, refer to [Utilizing the Applications Sections](../main-applications/utilizing-the-main-applications-section.md).
-{% endhint %}
-
 {% page-ref page="event-browser/" %}
 
 {% page-ref page="as-run-log/" %}
@@ -14,5 +10,7 @@ For more information regarding the scheme of this section, refer to [Utilizing t
 
 {% page-ref page="record-scheduler/" %}
 
-
+{% hint style="info" %}
+For more information regarding the scheme of this section, refer to [Utilizing the Applications Sections](../main-applications/utilizing-the-main-applications-section.md).
+{% endhint %}
 

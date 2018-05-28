@@ -1,9 +1,5 @@
 # Main Applications
 
-{% hint style="info" %}
-For more information regarding the scheme of this section, refer to [Utilizing the Applications Sections](utilizing-the-main-applications-section.md).
-{% endhint %}
-
 {% page-ref page="playlist/" %}
 
 {% page-ref page="content-browser/" %}
@@ -12,5 +8,7 @@ For more information regarding the scheme of this section, refer to [Utilizing t
 
 {% page-ref page="asset-compare/" %}
 
-
+{% hint style="info" %}
+For more information regarding the scheme of this section, refer to [Utilizing the Applications Sections](utilizing-the-main-applications-section.md).
+{% endhint %}
 
