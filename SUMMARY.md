@@ -7,12 +7,13 @@
 * [User Interface](untitled/README.md)
   * NUE Desktop
     * Application Interface
-    * Application Menu
-      * Tree View
-      * Favorites View
-    * Virtual Desktop
     * Tray
+      * Application Menu
+        * Tree View
+        * Favorites View
+      * Search
     * Favorites
+      * Operations
     * Virtual Desktop
   * Closing NUE
 
