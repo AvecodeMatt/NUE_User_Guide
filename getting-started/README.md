@@ -1,4 +1,4 @@
-# Getting Started
+# 1\) Getting Started
 
 {% page-ref page="starting-nue.md" %}
 
