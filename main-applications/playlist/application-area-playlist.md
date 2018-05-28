@@ -1,4 +1,4 @@
-# Application Area - Playlist
+# Application Area \(Playlist\)
 
 k
 

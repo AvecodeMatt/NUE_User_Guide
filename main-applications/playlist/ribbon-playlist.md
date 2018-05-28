@@ -1,4 +1,4 @@
-# Ribbon - Playlist
+# Ribbon \(Playlist\)
 
 k
 

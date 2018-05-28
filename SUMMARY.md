@@ -18,8 +18,8 @@
 * [Main Applications](main-applications/README.md)
   * [Utilizing the Main Applications Section](main-applications/utilizing-the-main-applications-section.md)
   * [Playlist](main-applications/playlist/README.md)
-    * [Ribbon - Playlist](main-applications/playlist/ribbon-playlist.md)
-    * [Application Area - Playlist](main-applications/playlist/application-area-playlist.md)
-    * [Side Panels - Playlist](main-applications/playlist/side-panels-playlist.md)
-    * [Examples - Playlist](main-applications/playlist/examples-playlist.md)
+    * [Ribbon \(Playlist\)](main-applications/playlist/ribbon-playlist.md)
+    * [Application Area \(Playlist\)](main-applications/playlist/application-area-playlist.md)
+    * [Side Panels \(Playlist\)](main-applications/playlist/side-panels-playlist.md)
+    * [Examples \(Playlist\)](main-applications/playlist/examples-playlist.md)
 

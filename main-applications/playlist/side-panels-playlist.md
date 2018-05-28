@@ -1,4 +1,4 @@
-# Side Panels - Playlist
+# Side Panels \(Playlist\)
 
 k
 
