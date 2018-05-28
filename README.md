@@ -1,4 +1,4 @@
-![](../.images/logo.png)
+![](../images/logo.png)
 
 # NUE User Manual
 
