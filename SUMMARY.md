@@ -4,6 +4,7 @@
 * [Overview](overview/README.md)
   * [Starting NUE](overview/starting-nue.md)
   * [Updating NUE](overview/updating-nue.md)
+  * Preface
 * [User Interface](untitled/README.md)
   * [NUE Desktop](untitled/nue-desktop/README.md)
     * [System Tray](untitled/nue-desktop/tray/README.md)
