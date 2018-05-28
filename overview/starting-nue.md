@@ -6,7 +6,7 @@
   
 Locate the NUE Launcher shortcut on your machine and launch the application. 
 
-![NUE Launcher shortcut](./NUE_User_Guide/images/icons/NUE_Icon.PNG)
+![](./NUE_User_Guide/images/icons/NUE_Icon.PNG)
 
 For closing NUE, please refer to Closing NUE
 
