@@ -13,6 +13,6 @@ Make sure that the NUE application is not running during the update procedure. O
 {% endhint %}
 
 {% hint style="info" %}
-All user setting will carry over from one update to the next.
+Don't worry, all user settings will carry over from one version to the next.
 {% endhint %}
 

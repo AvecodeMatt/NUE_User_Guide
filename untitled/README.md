@@ -6,7 +6,7 @@ description: NUE Desktop User Interface
 
 {% page-ref page="nue-desktop/" %}
 
-{% page-ref page="closing-nue.md" %}
+{% page-ref page="../overview/closing-nue.md" %}
 
 
 
