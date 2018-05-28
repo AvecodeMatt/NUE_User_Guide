@@ -4,7 +4,7 @@
 
 Locate the NUE Launcher shortcut on your machine and launch the application.
 
-![NUE Launcher Icon](./images/icons/NUE_Icon.PNG)
+![NUE Launcher Icon](../.gitbook/assets/nue_icon.PNG)
 
 For closing NUE, please refer to Closing NUE
 
