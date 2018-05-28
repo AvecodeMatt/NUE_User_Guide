@@ -13,6 +13,6 @@ The [Main Applications](./) section has been written to make finding the informa
   * Examples \(optionally\)
 
 {% hint style="info" %}
-For more information regarding the various user interface parts, refer to [Application Interface](../untitled/application-interface.md) in [User Interface - NUE Desktop](../untitled/).
+For more information regarding the various user interface parts, refer to [Application Interface](../untitled/application-interface.md).
 {% endhint %}
 
