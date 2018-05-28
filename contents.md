@@ -10,5 +10,9 @@
 
 {% page-ref page="mcr-master-control-room-applications/" %}
 
+{% page-ref page="tools/" %}
+
+{% page-ref page="other-tools/" %}
+
 
 
