@@ -13,7 +13,7 @@ NUE can be closed using the following two methods:
 2. Cick **OK**
 
 {% hint style="danger" %}
-If NUE becomes unresponsive for any reason, use the operating system's Task Manager to end the process. \(In Windows: **Ctrl + Shift + Esc**\)
+If NUE becomes unresponsive for any reason, use the operating system's Task Manager to end the process. \(In Windows Vista/7/8/10: **Ctrl + Shift + Esc**\)
 {% endhint %}
 
 {% hint style="info" %}
