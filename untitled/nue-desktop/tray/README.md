@@ -1,4 +1,4 @@
-# Tray
+# System Tray
 
 k
 
